@@ -1,1 +1,2 @@
 # Vibe-With-My-Soul
+Architected an end-to-end food ordering web application, leveraging Java (Spring Boot) to engineer robust RESTful APIs for core business logic, including user authentication and order processing. Designed a normalized MySQL database schema for data persistence and implemented a responsive, user-centric front-end with HTML, CSS, and JavaScript. Managed the complete project lifecycle and version control using Git and GitHub.
